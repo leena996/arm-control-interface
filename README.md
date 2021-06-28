@@ -1,5 +1,7 @@
-# arm-control-interface
-contining html page and css
+this reposiory is a front web page devlopment for sex engine and cycle to control the robot arm
+1-interface robot arm.html
+2-control the arm.css robot
+
 <!DOCTYPE html>
 <html>
 <head>
